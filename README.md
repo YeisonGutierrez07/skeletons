@@ -5,9 +5,9 @@ A Flutter package for building custom skeleton widgets to mimic the page's layou
 ## Examples
 
 
-| Items |  | ListView (Default) |
-| ------------- | ------------- | ------------- |
-| ![items](gifs/items.gif)  | ![paragraphs](gifs/paragraph.gif)  | ![listview_default](gifs/listview_default.gif)  |
+| Items |  | ListView (Default) |   |
+| ------------- | ------------- | ------------- |---|
+| ![items](gifs/items.gif)  | ![paragraphs](gifs/paragraph.gif)  | ![listview_default](gifs/listview_default.gif)  |   |
 
 | ListView (Custom) | ListView (Complex Cards) | SkeletonTheme  |
 | ------------- |  ------------- | ------------- |
